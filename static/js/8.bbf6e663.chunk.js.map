@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/About.js"],"names":["About"],"mappings":"4HAAA,2BAUeA,UARf,WACE,OACE,oCACE","file":"static/js/8.bbf6e663.chunk.js","sourcesContent":["import React from 'react';\n\nfunction About() {\n  return (\n    <>\n      <h1>这是一个上传图片的网址,虽然可以存储的数据不大,但基础功能还是做好了。</h1>\n    </>\n  );\n}\n\nexport default About;"],"sourceRoot":""}
